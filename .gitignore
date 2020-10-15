@@ -11,3 +11,4 @@ package/inject_generator/android/
 package/inject_generator/ios/
 
 .idea/
+*.iml
