@@ -1,9 +1,10 @@
-name: inject
+name: inject2
 version: 1.0.1
 description: Compile-time dependency injection for Dart
 authors:
   - Matan Lurey <matanl@google.com>
   - Yegor Jbanov <yjbanov@google.com>
+  - Moshe Waisberg <pnemonic@gmail.com>
 homepage: https://pub.dartlang.org/packages/inject
 
 environment:

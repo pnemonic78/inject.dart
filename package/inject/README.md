@@ -1,4 +1,4 @@
-# `package:inject`
+# `package:inject2`
 
 [![Build Status](https://travis-ci.org/google/inject.dart.svg?branch=master)](https://travis-ci.org/google/inject.dart)
 
